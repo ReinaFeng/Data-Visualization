@@ -6,6 +6,9 @@ It includes different types of Outbreaks such as: Food, Water, Animal, Contact, 
 
 ## Prototypes
 
+This bar plot shows the number of outbreaks in different months as well as the distribution of differet types of disease in each month.
+
+![image](https://github.com/ReinaFeng/Data-Visualization/blob/master/pic/Annotation%202019-09-26%20221928.png)
 
 ## Questions & Tasks
 * Does the outbreak have the seasonality? Which months have highest frequency?
@@ -16,11 +19,14 @@ It includes different types of Outbreaks such as: Food, Water, Animal, Contact, 
 ### 1. Time-Series Plot
 This plot will show how did the number of outbreaks change by time. User can filter by some categories like "Etology", "State" and "Primary Mode". Ideally, when user click a line, a corresponding bar plot will appear.
 
-
+![image](https://github.com/ReinaFeng/Data-Visualization/blob/master/pic/WeChat%20Image_20190907140520.jpg)
 
 ### 2. Distribution Map
 This plot will show the distribution of the Outbreaks. Darker color means larger number and it supports interactive functions like showing the number and state name.
 
+![image](https://github.com/ReinaFeng/Data-Visualization/blob/master/pic/WeChat%20Image_20190907140530.jpg)
 
 ### 3. Analysis on Primary Mode
 This plot will show how the proportion of different Primary Mode with stack bar plot. Ideally, it will be a dynamic plot. The bars may change by time.
+
+![image](https://github.com/ReinaFeng/Data-Visualization/blob/master/pic/WeChat%20Image_20190907140537.jpg)
