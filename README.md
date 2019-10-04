@@ -30,3 +30,27 @@ This plot will show the distribution of the Outbreaks. Darker color means larger
 This plot will show how the proportion of different Primary Mode with stack bar plot. Ideally, it will be a dynamic plot. The bars may change by time.
 
 ![image](https://github.com/ReinaFeng/Data-Visualization/blob/master/pic/WeChat%20Image_20190907140537.jpg)
+
+##Schedule of Deliverables
+
+### Week1: Time-Series Plot
+* Draw basic lines
+* Create menu for selection
+* Add interaction: When move mouse on the plot, it will show corresponding values.
+
+### Week2: Distribution Map
+* Draw basic map
+* Set colors
+* Add interaction: When move on a state it will show the corresponding value
+
+### Week3: Analysis on Primary Mode
+* Draw pie chart
+* Create a menu for selection
+
+### Week4: Solving Problems& Modify
+* Solve the problems in the past 3 weeks
+* Add interaction on Time-Series Plot: When click a line, a corresponding bar plot will appear
+* Modify the pie chart to other fancy charts
+* Try to make the Distribution Map and the third plot dynamic
+
+
