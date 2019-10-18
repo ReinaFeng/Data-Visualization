@@ -26,6 +26,7 @@ This plot will show the distribution of the Outbreaks. Darker color means larger
 
 ![image](https://github.com/ReinaFeng/Data-Visualization/blob/master/pic/WeChat%20Image_20190907140530.jpg)
 
+![image](https://github.com/ReinaFeng/Data-Visualization/blob/master/pic/Annotation%202019-10-17%20211444.png)
 ### 3. Analysis on Primary Mode
 This plot will show how the proportion of different Primary Mode with stack bar plot. Ideally, it will be a dynamic plot. The bars may change by time.
 
