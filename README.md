@@ -1,4 +1,4 @@
-# Data-Visualization
+# [Data-Visualization](https://vizhub.com/ReinaFeng)
 
 ## Data
 The [National Outbreak Reporting System (NORS)](https://www.cdc.gov/nors/) supports outbreak reporting by partners in state, local, and territorial public health agencies.
@@ -37,5 +37,6 @@ User can filter by some categories like "Etology", "State" and "Primary Mode".
 ### 3. Primary Mode Analysis
 Ideally, it will be a dynamic plot. The bars may change by time.
 ![image](https://github.com/ReinaFeng/Data-Visualization/blob/master/pic/WeChat%20Image_20190907140537.jpg)
+
 ### More ideas:
 [Interactive details](https://observablehq.com/@vega/vega-lite-annotated-time-series?collection=@vega/vega-lite-api)
